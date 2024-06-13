@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShruthiAkkapelli
-- 👀 I’m interested in .Net,.NetCore ,SQL,AWS
--  I’m looking for New Opportunities in Remote .Net Fullstack .
+- 👀 I’m interested in .Net,.NetCore ,SQL,Cloud,PowerBi
+-  I’m looking for New Opportunities.
 - 📫 reach me @ https://www.linkedin.com/in/shruthi-a-029719265
 - 😄 Pronouns: Shruthi
 
