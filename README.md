@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ShruthiAkkapelli
-- 👀 I’m interested in .Net,.NetCore ,SQL,Cloud,PowerBi
--  I’m looking for New Opportunities.
 - 📫 reach me @ https://www.linkedin.com/in/shruthi-a-029719265
 - 😄 Pronouns: Shruthi
 
