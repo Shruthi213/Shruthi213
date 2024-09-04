@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShruthiAkkapelli
 - 📫 reach me @ https://www.linkedin.com/in/shruthi-a-029719265
-- 😄 Pronouns: Shruthi
+
 
 
 <!---
