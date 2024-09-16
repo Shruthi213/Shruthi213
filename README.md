@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShruthiAkkapelli
 - 📫 reach me @ https://www.linkedin.com/in/shruthi-a-029719265
-- Certified AZ-900 (Azure Cloud Fundamentals)
+- Certifications:  AZ-900 (Azure Cloud Fundamentals)
 
 
 
