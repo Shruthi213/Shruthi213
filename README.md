@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShruthiAkkapelli
+- 👋 Hi, I’m ShruthiAkkapelli
 - 📫 reach me @ https://www.linkedin.com/in/shruthi-a-029719265
 - Certifications:  DP-203 (Azure Data Engineer Associate)
 - Certifications:  AZ-900 (Azure Cloud Fundamentals)
